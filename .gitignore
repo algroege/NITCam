@@ -1,0 +1,4 @@
+*.dll
+*.lib
+test_consoleApplication_NITCam/
+matlab/Output/NITCamData.xml
