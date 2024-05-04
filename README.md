@@ -1,7 +1,7 @@
 This Project builds an Matlab C++ Interface based on a custom NITCam class that uses the NIT Library
 
 Required Files:
-NITLibrary_x64.dll
+NITLibrary_x64.dll and
 NITLibrary_x64-3.2.1.lib
 
 Workflow:
