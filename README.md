@@ -10,3 +10,7 @@ Workflow:
 3. Add NITCamInterface.dll and NITLibrary_x64.dll to paths
 4. Use example m-File for first steps 
 
+
+# Compiler Settings: 
+mex -setup
+Microsoft Visual C++ 2019 
